@@ -1,0 +1,315 @@
+[
+    {
+        "_id": "1",
+        "chefName": "Apple Khan",
+        "chefPicture": "https://th.bing.com/th/id/R.f581499bb577fdd60806965aabfdfa3a?rik=r3%2b39wbTmazlzw&pid=ImgRaw&r=0",
+        "chefBio": "Chef Apple Khan is a renowned chef who specializes in traditional Bengali cuisine. With over 10 years of experience in the culinary industry, she has created over 50 unique Bengali dishes that have earned her a loyal following.",
+        "likes": 1000,
+        "numberOfRecipes": 3,
+        "yearsOfExperience": 10,
+        "recipes": [
+            {
+                "name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard oil",
+                    "Mustard seeds",
+                    "Green chilies",
+                    "Turmeric powder"
+                ],
+                "cookingMethod": "Marinate the fish with salt and turmeric powder. Make a paste of mustard seeds, green chilies, and salt. Fry the fish lightly in mustard oil, then add the mustard paste and some water. Cook until the gravy thickens.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "name": "Chingri Macher Malai Curry",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Ginger paste",
+                    "Garlic paste"
+                ],
+                "cookingMethod": "Fry the onion until it turns brown. Add ginger and garlic paste, then fry for a few more minutes. Add prawns and fry for a few more minutes. Add coconut milk and cook until the gravy thickens.",
+                "rating": 4.2,
+                "isFavorite": false
+            },
+            {
+                "name": "Bhapa Chingri",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut",
+                    "Green chilies",
+                    "Mustard oil",
+                    "Turmeric powder"
+                ],
+                "cookingMethod": "Marinate the prawns with salt and turmeric powder. Grind coconut and green chilies to make a paste. Mix the paste with the prawns. Steam for 15-20 minutes.",
+                "rating": 4.8,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "_id": "2",
+        "chefName": "Maria Begum",
+        "chefPicture": "https://th.bing.com/th/id/R.b3bc5641e30eb2cfc46a6b25543d0d3b?rik=ZFwe6KtIeIkGUQ&pid=ImgRaw&r=0",
+        "chefBio": "Chef Maria Begum is a rising star in the culinary world, known for her modern interpretations of traditional Bengali dishes. With 5 years of experience in the industry, she has already created 20 unique dishes that showcase her creativity and passion for cooking.",
+        "likes": 500,
+        "numberOfRecipes": 3,
+        "yearsOfExperience": 5,
+        "recipes": [
+            {
+                "name": "Bhuna Khichuri",
+                "ingredients": [
+                    "rice",
+                    "lentils",
+                    "potatoes",
+                    "onions",
+                    "ginger"
+                ],
+                "method": "1. Wash the rice and lentils together and soak for 30 minutes.\n2. Heat oil in a pressure cooker and fry onions until golden brown.\n3. Add ginger and fry for a few seconds.\n4. Add potatoes and fry for a few minutes.\n5. Add the soaked rice and lentils to the cooker.\n6. Add water and salt and pressure cook for 2-3 whistles.\n7. Serve hot with fried eggplant or any vegetable of your choice.",
+                "rating": 4.3,
+                "favorite": false
+            },
+            {
+                "name": "Kosha Mangsho",
+                "ingredients": [
+                    "Mutton",
+                    "Onion",
+                    "Tomato",
+                    "Ginger",
+                    "Garlic",
+                    "Green Chilies",
+                    "Cumin",
+                    "Coriander",
+                    "Chili Powder",
+                    "Turmeric",
+                    "Garam Masala",
+                    "Salt",
+                    "Mustard Oil"
+                ],
+                "cookingMethod": "1. Heat mustard oil in a pressure cooker and fry the onions till golden brown. 2. Add ginger, garlic, and green chilies and fry for a minute. 3. Add cumin and coriander powder and fry for 2-3 minutes. 4. Add the mutton and fry till it changes color. 5. Add chopped tomatoes and fry for 2-3 minutes. 6. Add salt, chili powder, turmeric, and garam masala and fry for another 2-3 minutes. 7. Add 2 cups of water and pressure cook till the mutton is tender. 8. Serve hot with steamed rice.",
+                "rating": 4.0,
+                "favorite": false
+            },
+            {
+                "name": "Bengali Fish Fry",
+                "ingredients": [
+                    "Rohu Fish",
+                    "Turmeric",
+                    "Chili Powder",
+                    "Cumin",
+                    "Coriander",
+                    "Ginger",
+                    "Garlic",
+                    "Lemon Juice",
+                    "Salt",
+                    "Mustard Oil"
+                ],
+                "cookingMethod": "1. Clean and wash the fish and marinate with turmeric, chili powder, cumin, coriander, ginger, garlic, lemon juice, and salt for 30 minutes. 2. Heat mustard oil in a pan and fry the fish till golden brown. 3. Serve hot with onion rings and lemon wedges.",
+                "rating": 4.2,
+                "favorite": false
+            }
+        ]
+    }, 
+    {
+        "_id": "3",
+        "chefName": "Shobuj Ahmed",
+        "chefPicture": "https://th.bing.com/th/id/OIP.qO61lFEGMrxFug3ayW2z4wHaHa?pid=ImgDet&rs=1",
+        "chefBio": "Chef Shobuj Ahmed is a renowned chef who specializes in traditional Bengali cuisine. With over 10 years of experience in the culinary industry, she has created over 50 unique Bengali dishes that have earned her a loyal following.",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 20,
+        "likes": 500,
+        "recipes": [
+            {
+                "name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard oil",
+                    "Mustard seeds",
+                    "Green chilies",
+                    "Turmeric powder"
+                ],
+                "cookingMethod": "Marinate the fish with salt and turmeric powder. Make a paste of mustard seeds, green chilies, and salt. Fry the fish lightly in mustard oil, then add the mustard paste and some water. Cook until the gravy thickens.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "name": "Chingri Macher Malai Curry",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Ginger paste",
+                    "Garlic paste"
+                ],
+                "cookingMethod": "Fry the onion until it turns brown. Add ginger and garlic paste, then fry for a few more minutes. Add prawns and fry for a few more minutes. Add coconut milk and cook until the gravy thickens.",
+                "rating": 4.2,
+                "isFavorite": false
+            },
+            {
+                "name": "Bhapa Chingri",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut",
+                    "Green chilies",
+                    "Mustard oil",
+                    "Turmeric powder"
+                ],
+                "cookingMethod": "Marinate the prawns with salt and turmeric powder. Grind coconut and green chilies to make a paste. Mix the paste with the prawns. Steam for 15-20 minutes.",
+                "rating": 4.8,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "_id": "4",
+        "chefName": "Nusrat Jahan",
+        "chefPicture": "https://th.bing.com/th/id/OIP.LZBCaXipzqDgKZxdM-rxoAHaE8?w=297&h=198&c=7&r=0&o=5&pid=1.7",
+        "chefBio": "Chef Nusrat Jahan is a renowned chef who specializes in traditional Bengali cuisine. With over 10 years of experience in the culinary industry, she has created over 50 unique Bengali dishes that have earned her a loyal following.",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 40,
+        "likes": 800,
+        "recipes": [
+            {
+                "name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard oil",
+                    "Mustard seeds",
+                    "Green chilies",
+                    "Turmeric powder"
+                ],
+                "cookingMethod": "Marinate the fish with salt and turmeric powder. Make a paste of mustard seeds, green chilies, and salt. Fry the fish lightly in mustard oil, then add the mustard paste and some water. Cook until the gravy thickens.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "name": "Chingri Macher Malai Curry",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Ginger paste",
+                    "Garlic paste"
+                ],
+                "cookingMethod": "Fry the onion until it turns brown. Add ginger and garlic paste, then fry for a few more minutes. Add prawns and fry for a few more minutes. Add coconut milk and cook until the gravy thickens.",
+                "rating": 4.2,
+                "isFavorite": false
+            },
+            {
+                "name": "Bhapa Chingri",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut",
+                    "Green chilies",
+                    "Mustard oil",
+                    "Turmeric powder"
+                ],
+                "cookingMethod": "Marinate the prawns with salt and turmeric powder. Grind coconut and green chilies to make a paste. Mix the paste with the prawns. Steam for 15-20 minutes.",
+                "rating": 4.8,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "_id": "5",
+        "chefName": "Tanvir Hossain",
+        "chefPicture": "https://th.bing.com/th/id/OIP.x1tX6QVAcyJUB5ss4H5qnwHaKX?pid=ImgDet&rs=1",
+        "chefBio": "Chef Tanvir Hossain is a renowned chef who specializes in traditional Bengali cuisine. With over 10 years of experience in the culinary industry, she has created over 50 unique Bengali dishes that have earned her a loyal following.",
+        "yearsOfExperience": 30,
+        "numberOfRecipes": 70,
+        "likes": 1500,
+        "recipes": [
+            {
+                "name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard oil",
+                    "Mustard seeds",
+                    "Green chilies",
+                    "Turmeric powder"
+                ],
+                "cookingMethod": "Marinate the fish with salt and turmeric powder. Make a paste of mustard seeds, green chilies, and salt. Fry the fish lightly in mustard oil, then add the mustard paste and some water. Cook until the gravy thickens.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "name": "Chingri Macher Malai Curry",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Ginger paste",
+                    "Garlic paste"
+                ],
+                "cookingMethod": "Fry the onion until it turns brown. Add ginger and garlic paste, then fry for a few more minutes. Add prawns and fry for a few more minutes. Add coconut milk and cook until the gravy thickens.",
+                "rating": 4.2,
+                "isFavorite": false
+            },
+            {
+                "name": "Bhapa Chingri",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut",
+                    "Green chilies",
+                    "Mustard oil",
+                    "Turmeric powder"
+                ],
+                "cookingMethod": "Marinate the prawns with salt and turmeric powder. Grind coconut and green chilies to make a paste. Mix the paste with the prawns. Steam for 15-20 minutes.",
+                "rating": 4.8,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "_id": "6",
+        "chefName": "Sharika Jahan",
+        "chefPicture": "https://th.bing.com/th/id/OIP.EptzqWDYVbChuLrA70ytewHaMn?pid=ImgDet&rs=1",
+        "chefBio": "Chef Apple Khan is a renowned chef who specializes in traditional Bengali cuisine. With over 10 years of experience in the culinary industry, she has created over 50 unique Bengali dishes that have earned her a loyal following.",
+        "yearsOfExperience": 3,
+        "numberOfRecipes": 10,
+        "likes": 200,
+        "recipes": [
+            {
+                "name": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard oil",
+                    "Mustard seeds",
+                    "Green chilies",
+                    "Turmeric powder"
+                ],
+                "cookingMethod": "Marinate the fish with salt and turmeric powder. Make a paste of mustard seeds, green chilies, and salt. Fry the fish lightly in mustard oil, then add the mustard paste and some water. Cook until the gravy thickens.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "name": "Chingri Macher Malai Curry",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Ginger paste",
+                    "Garlic paste"
+                ],
+                "cookingMethod": "Fry the onion until it turns brown. Add ginger and garlic paste, then fry for a few more minutes. Add prawns and fry for a few more minutes. Add coconut milk and cook until the gravy thickens.",
+                "rating": 4.2,
+                "isFavorite": false
+            },
+            {
+                "name": "Bhapa Chingri",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut",
+                    "Green chilies",
+                    "Mustard oil",
+                    "Turmeric powder"
+                ],
+                "cookingMethod": "Marinate the prawns with salt and turmeric powder. Grind coconut and green chilies to make a paste. Mix the paste with the prawns. Steam for 15-20 minutes.",
+                "rating": 4.8,
+                "isFavorite": false
+            }
+        ]
+    }
+]
